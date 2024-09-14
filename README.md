@@ -1,8 +1,12 @@
 EstimateGas Project
 
-This project demonstrates how to deploy and configure CCIP (Cross-Chain Interoperability Protocol) Sender 
+This project demonstrates how to deploy and configure
 
-and Receiver contracts across multiple networks, and how to evaluate gas consumption during message transfers.
+CCIP (Cross-Chain Interoperability Protocol) Sender 
+
+and Receiver contracts across multiple networks, 
+
+and how to evaluate gas consumption during message transfers.
 
 
 Prerequisites
