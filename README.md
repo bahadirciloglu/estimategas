@@ -1,11 +1,19 @@
 EstimateGas Project
-This project demonstrates how to deploy and configure CCIP (Cross-Chain Interoperability Protocol) Sender and Receiver contracts across multiple networks, and how to evaluate gas consumption during message transfers.
+
+This project demonstrates how to deploy and configure CCIP (Cross-Chain Interoperability Protocol) Sender 
+
+and Receiver contracts across multiple networks, and how to evaluate gas consumption during message transfers.
 
 Prerequisites
+
 Node.js and npm
+
 Hardhat framework
+
 Solidity
+
 Installation
+
 Clone this repository:
 
 bash
